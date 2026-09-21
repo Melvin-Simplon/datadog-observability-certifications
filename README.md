@@ -1,36 +1,70 @@
-# Datadog Observability Certifications
+<br/>
 
-Course completion certificates earned on [Datadog Learning Center](https://learn.datadoghq.com/), kept here as proof of training for the observability module.
+<p align="center">
+  <img src="assets/datadog.svg" width="72" alt="Datadog" />
+</p>
 
-## Certificates
+<h1 align="center">Observability Certifications</h1>
 
-| Course | Issued | Certificate ID | File |
-| --- | --- | --- | --- |
-| Introduction to Observability | 2026-09-21 | v7bzsipj8g | [introduction-to-observability.png](certificates/introduction-to-observability.png) |
-| Datadog Quick Start | 2026-09-21 | vysd0lk1t6 | [datadog-quick-start.png](certificates/datadog-quick-start.png) |
-| Tagging Best Practices | 2026-09-21 | h9wiy7sd67 | [tagging-best-practices.png](certificates/tagging-best-practices.png) |
+<p align="center">
+  <i>Courses completed on the <a href="https://learn.datadoghq.com/">Datadog Learning Center</a></i>
+</p>
 
-### Introduction to Observability
+<p align="center">
+  <a href="https://github.com/Melvin-Simplon"><img src="https://img.shields.io/badge/Melvin_at_Simplon.co-632CA6?style=for-the-badge&logo=github&logoColor=white" alt="Organization" /></a>
+</p>
 
-![Introduction to Observability](certificates/introduction-to-observability.png)
+<br/>
 
-### Datadog Quick Start
+<p align="center">
+  Datadog is the tool these courses are taught with, but what they teach is not tied to it.<br/>
+  Signals, correlation and tagging work the same way behind Prometheus, Grafana or OpenTelemetry.
+</p>
 
-![Datadog Quick Start](certificates/datadog-quick-start.png)
+<br/>
 
-### Tagging Best Practices
+---
 
-![Tagging Best Practices](certificates/tagging-best-practices.png)
+<br/>
 
-## Repository layout
+## Introduction to Observability
 
-```
-certificates/    certificate images, one file per completed course
-README.md        index of the certificates
-```
+Metrics, logs and traces each answer a different question: how much, what exactly happened, and where the time went. This course covers why a system needs all three, and why correlating them is what turns raw telemetry into an explanation of an incident.
 
-## Adding a new certificate
+<p align="center">
+  <img src="certificates/introduction-to-observability.png" width="620" alt="Introduction to Observability" />
+</p>
 
-1. Export the certificate as a PNG from the Datadog Learning Center.
-2. Save it under `certificates/` using the course name in kebab-case.
-3. Add a row to the table above and a section with the image.
+<p align="center"><sub>Issued 2026-09-21 &nbsp;·&nbsp; Certificate ID <code>v7bzsipj8g</code></sub></p>
+
+<br/>
+
+---
+
+<br/>
+
+## Tagging Best Practices
+
+Every signal carries the identity of what emitted it: environment, service, version. This course covers how a consistent set of tags lets a single query pivot from a metric to the traces and logs behind it, and why uncontrolled tag values are what makes an observability bill explode.
+
+<p align="center">
+  <img src="certificates/tagging-best-practices.png" width="620" alt="Tagging Best Practices" />
+</p>
+
+<p align="center"><sub>Issued 2026-09-21 &nbsp;·&nbsp; Certificate ID <code>h9wiy7sd67</code></sub></p>
+
+<br/>
+
+---
+
+<br/>
+
+## Datadog Quick Start
+
+Telemetry has to be collected before it can be read. This course covers the path from an agent running next to a host, a container or an application, through to the dashboards and monitors built on what it sends, the same shape of pipeline whatever the backend.
+
+<p align="center">
+  <img src="certificates/datadog-quick-start.png" width="620" alt="Datadog Quick Start" />
+</p>
+
+<p align="center"><sub>Issued 2026-09-21 &nbsp;·&nbsp; Certificate ID <code>vysd0lk1t6</code></sub></p>
