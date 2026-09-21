@@ -8,6 +8,7 @@ Course completion certificates earned on [Datadog Learning Center](https://learn
 | --- | --- | --- | --- |
 | Introduction to Observability | 2026-09-21 | v7bzsipj8g | [introduction-to-observability.png](certificates/introduction-to-observability.png) |
 | Datadog Quick Start | 2026-09-21 | vysd0lk1t6 | [datadog-quick-start.png](certificates/datadog-quick-start.png) |
+| Tagging Best Practices | 2026-09-21 | h9wiy7sd67 | [tagging-best-practices.png](certificates/tagging-best-practices.png) |
 
 ### Introduction to Observability
 
@@ -16,6 +17,10 @@ Course completion certificates earned on [Datadog Learning Center](https://learn
 ### Datadog Quick Start
 
 ![Datadog Quick Start](certificates/datadog-quick-start.png)
+
+### Tagging Best Practices
+
+![Tagging Best Practices](certificates/tagging-best-practices.png)
 
 ## Repository layout
 
