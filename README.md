@@ -7,10 +7,15 @@ Course completion certificates earned on [Datadog Learning Center](https://learn
 | Course | Issued | Certificate ID | File |
 | --- | --- | --- | --- |
 | Introduction to Observability | 2026-09-21 | v7bzsipj8g | [introduction-to-observability.png](certificates/introduction-to-observability.png) |
+| Datadog Quick Start | 2026-09-21 | vysd0lk1t6 | [datadog-quick-start.png](certificates/datadog-quick-start.png) |
 
 ### Introduction to Observability
 
 ![Introduction to Observability](certificates/introduction-to-observability.png)
+
+### Datadog Quick Start
+
+![Datadog Quick Start](certificates/datadog-quick-start.png)
 
 ## Repository layout
 
