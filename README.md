@@ -84,3 +84,19 @@ A containerised workload does not expose its telemetry the way a plain host does
 </p>
 
 <p align="center"><sub>Issued 2026-09-21 &nbsp;·&nbsp; Certificate ID <code>x39wpllprm</code></sub></p>
+
+<br/>
+
+---
+
+<br/>
+
+## Introduction to Dashboards
+
+Collected telemetry is worthless until someone can read it at a glance. This course covers what belongs on a screen and what does not, and how template variables let one dashboard serve every service and environment, which only works when the signals were tagged consistently in the first place.
+
+<p align="center">
+  <img src="certificates/introduction-to-dashboards.png" width="620" alt="Introduction to Dashboards" />
+</p>
+
+<p align="center"><sub>Issued 2026-09-21 &nbsp;·&nbsp; Certificate ID <code>ktcsihmhsa</code></sub></p>
