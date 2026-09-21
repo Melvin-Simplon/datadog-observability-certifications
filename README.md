@@ -68,3 +68,19 @@ Telemetry has to be collected before it can be read. This course covers the path
 </p>
 
 <p align="center"><sub>Issued 2026-09-21 &nbsp;·&nbsp; Certificate ID <code>vysd0lk1t6</code></sub></p>
+
+<br/>
+
+---
+
+<br/>
+
+## The Agent on Docker
+
+A containerised workload does not expose its telemetry the way a plain host does. This course covers running the collector as a container itself, given read access to the runtime so it discovers what is running and tags each signal with the container it came from, the pattern any node-level collector follows.
+
+<p align="center">
+  <img src="certificates/the-agent-on-docker.png" width="620" alt="The Agent on Docker" />
+</p>
+
+<p align="center"><sub>Issued 2026-09-21 &nbsp;·&nbsp; Certificate ID <code>x39wpllprm</code></sub></p>
